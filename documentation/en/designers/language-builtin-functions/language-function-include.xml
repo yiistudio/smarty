@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- $Revision: 4567 $ -->
+<!-- $Revision: 4665 $ -->
 <sect1 id="language.function.include">
  <title>{include}</title>
  <para>
@@ -40,7 +40,7 @@
   <varname>{include}</varname> statement or for individual variables by using the scope
    attribute at the <link linkend="language.function.assign"><varname>{assign}</varname></link>
    statement. The later is useful to return values from the included template to the 
-   includung template.
+   including template.
   </para></listitem>
 
   <listitem><para>
